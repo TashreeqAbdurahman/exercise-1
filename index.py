@@ -1,5 +1,5 @@
-name = "what is your name?"
-age = "What is your age?"
+name =input ("what is your name?")
+age = input ("what is your age?")
 
 print("hello, " + name + ". " + age)
 
@@ -15,3 +15,4 @@ fahrenheit = (celsuis * 9/5) + 32
 
 print ("Temperature is equal to: ")
 print (fahrenheit)
+
